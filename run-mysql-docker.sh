@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-NAME="sonarqubemysql"
+NAME="springbootmysql"
 IMAGE="mysql:5.7"
 
 PORT="9306"
