@@ -1,5 +1,7 @@
 # Spring Boot MySQL
 
+[![DepShield Badge](https://depshield.sonatype.org/badges/joostvdg/spring-boot-mysql/depshield.svg)](https://depshield.github.io)
+
 ## Stack
 * Spring
   * Spring Boot 
